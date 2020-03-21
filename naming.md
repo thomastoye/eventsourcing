@@ -2,6 +2,8 @@
 
 ## Naming Your Commands
 
+Try not to use "CRUD" names.
+
 TK They don't always have names \(e.g., web service\) but you should still take care in naming them \(e.g., naming the route semantically, use of REST verbs\)
 
 ## Naming Your Events

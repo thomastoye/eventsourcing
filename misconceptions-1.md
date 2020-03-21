@@ -16,9 +16,7 @@ TODO process this:
 
 TK especially beware of sharing implementation details \(i.e. ES\) outside of your system/bounded context
 
-## Event Sourcing Necessarily Implies CQRS
-
-TK I'm no longer convinced of this
+## CQRS Implies Event Sourcing
 
 ## Event Sourcing Requires a Framework
 
@@ -27,6 +25,8 @@ TK I'm no longer convinced of this
 ## Event Sourcing Means Kafka
 
 ## Replaying Commands Leads to the Current State
+
+## Flux/Redux is Event Sourcing
 
 ## Event Sourcing can be Hard
 
