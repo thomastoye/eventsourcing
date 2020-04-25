@@ -9,7 +9,7 @@
 * [Event Sourcing in the Real World](introduction-what-is-event-sourcing/event-sourcing-in-the-real-world.md)
 * [Do You Need DDD With Event Sourcing?](introduction-what-is-event-sourcing/do-you-need-ddd-with-event-sourcing.md)
 * [Advantages of Event Sourcing](advantages-of-event-sourcing.md)
-* [Attributes of an Event](attributes-of-an-event.md)
+* [Attributes of Commands and Events](attributes-of-an-event.md)
 * [Naming](naming.md)
 * [Operations in an Event Sourced System](operations-in-an-event-sourced-system.md)
 * [Misconceptions](misconceptions-1.md)

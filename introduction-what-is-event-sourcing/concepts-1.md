@@ -12,7 +12,7 @@ _Event_ is a bad name for this concept. A better name would be _fact_ or [_histo
 
 ## Event Sourcing
 
-Your state is built from events. The event stream is the source of truth.
+Your state is built from events. The _event stream_, which contains all messages, is the source of truth.
 
 ## Commands
 
@@ -80,6 +80,8 @@ TK Example: A CI system emits an event when the build fails.
 
 * [https://www.innoq.com/de/blog/domain-events-versus-event-sourcing/](https://www.innoq.com/de/blog/domain-events-versus-event-sourcing/)
 * [https://verraes.net/2019/08/eventsourcing-state-from-events-vs-events-as-state/](https://verraes.net/2019/08/eventsourcing-state-from-events-vs-events-as-state/)
+
+## Command Sourcing vs Event Sourcing
 
 
 

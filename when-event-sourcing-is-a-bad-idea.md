@@ -10,6 +10,8 @@ We only want to know what kind of plan a team in a SaaS application is on. But t
 
 ## When the team isn't ready
 
+Event Sourcing is an advanced and hard architectural pattern. In an inexperienced team, forcing ES might give half-baked results and could hurt agility.
+
 ## Something something Eventual Consistency Unacceptable
 
 TK

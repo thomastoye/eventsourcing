@@ -2,11 +2,13 @@
 
 ## Maps Mental Model
 
-Events map closely to the mental model of the domain you're working in. _AudioMessageSent_ is clearer than _add a new row to the `messages` table with the `audio` column set to `TRUE`._
+Events map closely to the mental model of the domain you're working in. `AudioMessageSent` is clearer than _add a new row to the `messages` table with the `audio` column set to `TRUE`._
 
 ## You Don't Lose Any Data
 
-Since your event store is append-only, you can't accidentally delete your `users` table - been there. But you also don't lose things you don't deem important at the moment.
+Since your event store is append-only, you can't accidentally delete your `users` table. But you also don't lose things you don't deem important at the moment.
+
+Often, the business will come to you with a question like "How many tenants switched their plan last year?", and your reply is "Well, we update that in-place, so we don't really know." With Event Sourcing, this could be as easy as filtering your events table for `TenantSwitchPlan` events.
 
 ## Audit Log For Free
 
