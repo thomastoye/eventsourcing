@@ -8,7 +8,7 @@ I'm learning about event sourcing. Sadly, there's no authoritative book on the s
 
 ...are very welcome.
 
-The repository is [here](https://github.com/thomastoye/eventsourcing). I use the GitBook app to author the Markdown, but pure MD should work too.
+The repository is [here](https://github.com/thomastoye/eventsourcing). I use the GitBook app to author the MarkDown, but pure MarkDown should work too.
 
 
 
