@@ -4,7 +4,7 @@
 
 ## Introduction: What is Event Sourcing?
 
-* [Traditional Data and State Management](introduction-what-is-event-sourcing/traditional-data-and-state-management.md)
+* [Event Sourcing compared to Traditional Data and State Management](introduction-what-is-event-sourcing/traditional-data-and-state-management.md)
 * [Concepts](introduction-what-is-event-sourcing/concepts-1.md)
 * [Event Sourcing in the Real World](introduction-what-is-event-sourcing/event-sourcing-in-the-real-world.md)
 * [Do You Need DDD With Event Sourcing?](introduction-what-is-event-sourcing/do-you-need-ddd-with-event-sourcing.md)
