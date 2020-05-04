@@ -1,5 +1,7 @@
 # When You Need to Forget Events
 
+TODO parse [https://www.michielrook.nl/2017/11/event-sourcing-gdpr-follow-up/](https://www.michielrook.nl/2017/11/event-sourcing-gdpr-follow-up/)
+
 ## The Problem
 
 Event Sourcing makes a whole class of compliance problems easier, but it complicates another. We have seen the rise of privacy regulations in the past few years \(a good thing!\), such as the GPDR and the CCPA.
